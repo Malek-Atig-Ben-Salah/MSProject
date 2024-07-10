@@ -1,0 +1,12 @@
+tn\esprit\myfirstproject\controllers\UniversiteController.class
+tn\esprit\myfirstproject\repositories\IUniversiteRepository.class
+tn\esprit\myfirstproject\dto\UniversiteDTO.class
+tn\esprit\myfirstproject\client\FoyerClient.class
+tn\esprit\myfirstproject\client\FoyerClient$1.class
+tn\esprit\myfirstproject\services\IUniversiteServices.class
+tn\esprit\myfirstproject\services\IUniversiteServicesImp.class
+tn\esprit\myfirstproject\dto\Foyer.class
+tn\esprit\myfirstproject\dto\UniversiteDTO$UniversiteDTOBuilder.class
+tn\esprit\myfirstproject\config\AppConfig.class
+tn\esprit\myfirstproject\entities\Universite.class
+tn\esprit\myfirstproject\MyFirstProjectApplication.class

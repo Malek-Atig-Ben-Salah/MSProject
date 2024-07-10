@@ -1,0 +1,10 @@
+com\example\microo\config\AppConfig.class
+com\example\microo\services\IBlocService.class
+com\example\microo\repositories\BlocRepo.class
+com\example\microo\services\BlocServiceImpl.class
+com\example\microo\controller\BlocController.class
+com\example\microo\entities\Bloc.class
+com\example\microo\dto\Chambre.class
+com\example\microo\client\ChambreClient.class
+com\example\microo\dto\type\TypeChambre.class
+com\example\microo\MicrooApplication.class

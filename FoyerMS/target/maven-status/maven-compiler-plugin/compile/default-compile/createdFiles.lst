@@ -1,0 +1,6 @@
+tn\esprit\asi\sprintproject\RestController\FoyerRestController.class
+tn\esprit\asi\sprintproject\SprintProjectApplication.class
+tn\esprit\asi\sprintproject\entities\Foyer.class
+tn\esprit\asi\sprintproject\service\IFoyerServiceImpl.class
+tn\esprit\asi\sprintproject\service\IFoyerService.class
+tn\esprit\asi\sprintproject\repository\FoyerRepository.class
